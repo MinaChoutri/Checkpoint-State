@@ -1,0 +1,15 @@
+[
+    {
+        "title" : "Les Éternels",
+        "poster" : "./Les-éternels.jpg"
+        
+    } ,
+    {
+        "title" : "Docteur Strange",
+        "poster" : "./Docteur-strange.jpg"     
+    },
+    {
+        "title" : "Tenet",
+        "poster" : "./Tenet.jpg"     
+    }
+]
